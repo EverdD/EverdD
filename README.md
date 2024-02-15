@@ -10,11 +10,9 @@ Hi 👋, I am **Firman Nurcahyo** an enthusiastic and ambitious full stack devel
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/sergiogarciagamez/)
+- 👨‍💻 All of my projects are available at [EverdD](https://everdd.github.io)
 
-- 💬 Ask me about **open source, web development, and community management**
-
-- 📫 Reach me out at **contact@miaxu.co**
+- 📫 Reach me out at **firman.cahyo.369@gmail.com**
 
 </details>
   

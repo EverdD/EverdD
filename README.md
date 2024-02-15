@@ -1,4 +1,4 @@
-Hi 👋, I am **Firman Nurcahyo** an enthusiastic and ambitious full stack developer, product lead at [@PicnicApp](https://www.linkedin.com/company/get-picnic/mycompany/) and community manager. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
+Hi 👋, I am **Firman Nurcahyo** Firman Nurcahyo, have a strong determination to become a Data Analyst, and that's why I feel so enthusiastic to understand the essence of data that we face everyday. I believe that data is not just information, but a valuable asset in this modern world. It is my belief that understanding data is the key to uncovering deep insights, allowing us to make informed and relevant decisions. ✨
 
 <div>
 <details>

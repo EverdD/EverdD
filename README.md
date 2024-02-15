@@ -32,3 +32,7 @@ Hi 👋, I am **Firman Nurcahyo** Firman Nurcahyo, have a strong determination t
 
   <a href="https://github.com/EverdD"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=EverdD&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/EverdD"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=EverdD&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+
+<!--![Firman Nurcahyo github stats](https://github-readme-stats.vercel.app/api?username=EverdD&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
+![Firman Nurcahyo Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EverdD&layout=compact&langs_count=8&hide_border=true)
+<br/>

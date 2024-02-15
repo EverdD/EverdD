@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <a href="https://discord.gg/pochita"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
 <p align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>

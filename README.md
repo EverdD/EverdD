@@ -23,6 +23,6 @@ Welcome to my GitHub profile! I'm on an exciting journey to explore the world of
 
 - 📫 **Reach Me:** Drop me an [email](mailto:firman.cahyo.369@gmail.com) - I'd love to hear from you!
 - 💼 **Portfolio:** Check out my [portfolio website](https://everdd.github.io) to explore my projects and learn more about my work.
-- 🌐 **Socials:** Connect with me on [LinkedIn](https://www.linkedin.com/in/firman-nurcahyo) for professional networking.
+- 🌐 **Socials:** Connect with me on [LinkedIn](https://www.linkedin.com/in/firmannurcahyo/) for professional networking.
 
 Let's collaborate, innovate, and make an impact together! ✨

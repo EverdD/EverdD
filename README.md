@@ -28,5 +28,3 @@ Welcome to my GitHub profile! I'm on an exciting journey to explore the world of
 Let's collaborate, innovate, and make an impact together! ✨
 
 
-![](https://github-profile-trophy.vercel.app/?username=EverdD&theme=radical&title_color=ff3068no-frame=false&no-bg=true&margin-w=4)
-

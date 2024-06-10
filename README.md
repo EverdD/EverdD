@@ -26,3 +26,7 @@ Welcome to my GitHub profile! I'm on an exciting journey to explore the world of
 - 🌐 **Socials:** Connect with me on [LinkedIn](https://www.linkedin.com/in/firmannurcahyo/) for professional networking.
 
 Let's collaborate, innovate, and make an impact together! ✨
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=EverdD&limit=5&theme=dark&combine_all_yearly_contributions=true)
